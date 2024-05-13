@@ -1,0 +1,9 @@
+service: "Assets-management-php"
+serviceInstance: "instance123"
+layer: "GENERAL"
+log_name: "/home/apmosys/Desktop/test/apmosys-bin/logs/skywalking-oap-server-2024-03-18-1.log"
+traceContext:
+  traceId: "123456789990"
+  spanId: "0"
+  traceSegmentId: ""
+controller-host: "192.168.21.129"

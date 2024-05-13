@@ -1,0 +1,8 @@
+service: Java::ApMoSyS_Agent
+serviceInstance: instance123
+layer: GENERAL
+traceId:
+spanId: 
+source_log_path: /home/apmosys/Desktop/test/apmosys-bin/logs/skywalking-oap-server.log
+traceSegmentId: 
+controller-host: "172.1.7.136"
